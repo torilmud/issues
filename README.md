@@ -3,7 +3,7 @@
 
 This repository is for reporting code or areas bugs with TorilMUD. Here's how to use it:
 
-* Go to the `Issues` tab above and first search for an existing issue for what you're reporting.
+* Go to the [Issues](https://github.com/torilmud/issues/issues) tab above and first search for an existing issue for what you're reporting.
 * If you're sure the issue hasn't already been reported, create a new issue.
 * GitHub will prompt you to create a new account if you haven't already.
 * Fill out the issue with a descriptive title and as much detail as possible.
